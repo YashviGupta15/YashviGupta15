@@ -16,18 +16,28 @@ I am also an open-source enthusiast. I've learned a lot from the open-source com
 [![Linkedin: yashvi-g-50a7ba163](https://img.shields.io/badge/-yashvigupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashvi-g-50a7ba163/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/yashvi-g-50a7ba163))
 [![GitHub YashviGupta15](https://img.shields.io/github/followers/YashviGupta15?label=follow&style=social)](https://github.com/YashviGupta15)
 
-```javascript
-const yashvi = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, C++],
-  tools: [Angular, NgRx, React, Redux, Node, Express, Storybook, Styled-Components, Karma, Jasmine, Jest],
-  // architecture: ["microservices", "event-driven", "design system pattern"]
-}
-```
+<div>
+  <h1 align="center">My Top Languages</h1> 
+  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvigupta15&hide_progress=true" /></span>  
+</div>
 
-📈 my github stats
+---------------------------------------------------------------------------------------------------------------------------------
+
+ ```javascript
+  const yashvi = {
+    pronouns: "she" | "her",
+    code: [Javascript, Typescript, HTML, CSS, Python, Java, C++],
+    tools: [Angular, NgRx, React, Redux, Node, Express, Storybook, Styled-Components, Karma, Jasmine, Jest],
+    architecture: ["front-end system design", "event-driven", "design system pattern"]
+  }
+  ```
+
+<!-- 📈 my github stats- -->
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=yashvigupta15&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" alt="yashvigupta15" /> -->
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvigupta15&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+  <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvigupta15&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/> -->
+ 
 </p>
+
+<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2 -->
